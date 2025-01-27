@@ -6,7 +6,7 @@ Vrinda Store aims to gain insights of their business performance through a detai
 Provided in file Vrinda_Store_Dataset
 
 # Tools used:
-Excel
+Excel: For data cleaning, visualization and dashboard creation.
 
 # Findings from Vrinda Store Sales Data 2022:
 1. Women are more likely to buy compared to men.
