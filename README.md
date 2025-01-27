@@ -3,7 +3,7 @@
 Vrinda Store aims to gain insights of their business performance through a detailed analysis of their 2022 sales data. The primary objective is to develop a data-driven approach to understand customer behavior patterns, identify market trends, and uncover growth opportunities. By analyzing key metrics such as sales distribution, customer demographics and channel performance, the store seeks to make strategic decisions that will drive sales growth and enhance customer satisfaction in 2023.
 
 # Dataset used:
-Provided in file Vrinda_Store_Dataset
+Provided in file Vrinda_Store_Dataset.csv
 
 # Tools used:
 Excel: For data cleaning, visualization and dashboard creation.
